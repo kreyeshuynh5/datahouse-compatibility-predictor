@@ -7,4 +7,4 @@ This script will take input (view format of input.json) of a team and applicants
 ### Contact Information:
 Kaianu Reyes-Huynh- kreyeshuynh@gmail.com
 
-Project Link: [https://github.com/kreyeshuynh5/datahouse-compatibility-predictor](https://github.com/kreyeshuynh/datahouse-compatibility-predictor)
+Project Link: [https://github.com/kreyeshuynh5/datahouse-compatibility-predictor](https://github.com/kreyeshuynh5/datahouse-compatibility-predictor)
